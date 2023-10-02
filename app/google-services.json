@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005251959037",
+    "project_id": "ekart-5ea62",
+    "storage_bucket": "ekart-5ea62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005251959037:android:089a0b0e9d34289c618694",
+        "android_client_info": {
+          "package_name": "com.dhruva.vishnu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005251959037-71vg5pa4jlr3ofkla5h616p1tda2ekg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhruva.vishnu",
+            "certificate_hash": "7c7fee4dd638c02b76909386fe7b64b1e684e49f"
+          }
+        },
+        {
+          "client_id": "1005251959037-bd2j0qchq8ssiof4u44p876ehp47qkc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jCwP0zC26Lx5V5yhC5yaSDbvoYYp9jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005251959037-bd2j0qchq8ssiof4u44p876ehp47qkc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
